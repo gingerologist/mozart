@@ -1,0 +1,23 @@
+{
+  "name": "mozart",
+  "version": "1.0.0",
+  "description": "home-brew tools for jbs-sound-light system",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gingerologist/mozart.git"
+  },
+  "author": "matianfu@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gingerologist/mozart/issues"
+  },
+  "homepage": "https://github.com/gingerologist/mozart#readme",
+  "devDependencies": {
+    "electron": "^13.5.2"
+  }
+}
